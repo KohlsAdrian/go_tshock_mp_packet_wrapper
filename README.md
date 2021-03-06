@@ -7,7 +7,7 @@ It wraps all packets from the game server into Go struct data, so you can read t
 
 # How to use it
 
-# 1 - Install the [Multiplayer Packet Wrapper Plugin]() on your tShock Terraria Server
+# 1 - Install the [Multiplayer Packet Wrapper Plugin](https://github.com/KohlsAdrian/tshock_multiplayer_packet_wrapper_plugin) on your tShock Terraria Server
 
 # 2 - Create 2 endpoints
 
