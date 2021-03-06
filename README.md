@@ -13,6 +13,6 @@ It wraps all packets from the game server into Go struct data, so you can read t
 
 2.1 - Packet streaming as `localhost:10000/` (POST)
 
-2.2. - Read the last packet read as 'localhost:10000/lastPacket' (GET)
+2.2. - Read the last packet read as `localhost:10000/lastPacket` (GET)
 
 # 3 - Done!
